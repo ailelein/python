@@ -1,1 +1,4 @@
-print(2+2)
+isMarried = True
+isWoman = True
+print(11<10)
+
