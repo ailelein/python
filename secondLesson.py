@@ -1,23 +1,8 @@
-# import math
-# a = math.pow(4,2)
-# print(a)
-# v =0.1+0.1+0.1+0.1+0.1+0.1+0.1+0.1+0.1+0.1
-# print(v)
+student1 = ["Tom", 'Sam', "Jack", 'Bob', 'Tim', "Sara"]
 
+student2 = ['Alice', 'John', 'Eva']
 
-# myname = "Bob"
-# myName = "Alice"
-# my_name = "Eve"
-# sales_price = 19.99
-# print(5 >= 2)
-# >
-# <
+tim_index = student1.index('Tim')
+student1[tim_index] = 'Timothy'
+print(student1)
 
-# a = "b"
-# a==b
-# ==
-
-
-
-
-print("Hello", 5, 333.555, False, 5<6)
