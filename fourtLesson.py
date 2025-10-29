@@ -1,7 +1,6 @@
-
-num1 = -1
-
-name = "Sam"
-name2 = 'Tom'
-print("my name is 'Alex'")
-
+name = input('write your name')
+print(name)
+surname = input('write your surname')
+print(surname)
+res = name +' '+ surname
+print(res)
